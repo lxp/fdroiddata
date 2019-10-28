@@ -7,6 +7,7 @@ License: GPL-2.0-or-later
 WebSite: https://www.wireguard.com/
 SourceCode: https://git.zx2c4.com/wireguard-android/
 IssueTracker: https://lists.zx2c4.com/mailman/listinfo/wireguard
+Changelog: https://lore.kernel.org/wireguard/?q=s:%22%5BANNOUNCE%5D+WireGuard+Snapshot%22+-s:%22Re:%22&o=-1&x=t
 Donate: https://www.wireguard.com/donations/
 Bitcoin: 1ASnTs4UjXKR8tHnLi9yG42n42hbFYV2um
 
